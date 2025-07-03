@@ -1,2 +1,5 @@
+# ignore virtual environment
 env/
+
+# ignore downloaded data
 data/
